@@ -1,5 +1,3 @@
-hola
-estos es comit en la main
 
 
 segundo commit
@@ -23,7 +21,7 @@ Parrafo 3 Claudio
 
 
 parrafo 4
-    miguel
+   Antonio
 
 parrafo 5
     miguel
