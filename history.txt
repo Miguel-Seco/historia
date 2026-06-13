@@ -7,6 +7,8 @@ segundo commit
 tercer commit en rama mai
 
 cuarto commit en la rama de claudio
+
+Parrafo 1: se comieron 4 los paraguas
 tercer commit en rama main
 
 parrafo 2
