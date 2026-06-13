@@ -1,16 +1,23 @@
-hola
-estos es comit en la main
 
 
-segundo commit
 
-tercer commit en rama mai
+parrafo 3
+    miguel
 
-cuarto commit en la rama de claudio
+parrafo 4
+   Antonio
 
-Parrafo 1: se comieron 4 los paraguas
-tercer commit en rama main
+parrafo 5
+    miguel
 
-parrafo 2
+parrafo 6
+    Ferraio
 
-vamos boca y vamos argentina 
+parrafo 7
+    miguel
+    
+parrafo 8
+    Gallo De Moron
+ 
+
+
