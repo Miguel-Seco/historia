@@ -11,16 +11,16 @@ cuarto commit en la rama de claudio
 Parrafo 1: se comieron 4 los paraguas
 tercer commit en rama main
 
+
 parrafo 2
+
 
 vamos boca y vamos argentina 
 
 
 Parrafo 3 Claudio
 
-Parrafo 6 Ferraio
 
-Parrafo 8 Gallo De Moron
 
 parrafo 4
     miguel
@@ -28,8 +28,10 @@ parrafo 4
 parrafo 5
     miguel
 
+Parrafo 6 Ferraio
 
 parrafo 7
     miguel
     
+Parrafo 8 Gallo De Moron
 
