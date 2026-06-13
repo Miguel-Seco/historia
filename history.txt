@@ -17,8 +17,19 @@ vamos boca y vamos argentina
 
 
 Parrafo 3 Claudio
-Parrafo 4 Antonio
-Parrafo 5 Jesus
+
 Parrafo 6 Ferraio
-Parrafo 7 Mendoza
+
 Parrafo 8 Gallo De Moron
+
+parrafo 4
+    miguel
+
+parrafo 5
+    miguel
+
+
+parrafo 7
+    miguel
+    
+
